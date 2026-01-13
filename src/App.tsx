@@ -6,12 +6,12 @@ function App() {
       <Input id="age" label="Your age" type="number" /> */}
 
       <p>
-        <Button el="button">Test Button</Button>
+        <Button>A Button</Button>
       </p>
 
       <p>
-        <Button el="anchor" href="https://www.vlu.edu.vn/" target="_blank">
-          Link
+        <Button target="_blank" href="https://google.com">
+          A Link
         </Button>
       </p>
     </main>
